@@ -1,0 +1,10 @@
+name = "MyModule"
+uuid = "d18defe2-ea8b-5af7-8ee9-e42adac5e2de"
+authors = ["Luisa Orozco <l.orozco@esciencecenter.nl>", "Abel Soares Siqueira <abel.s.siqueira@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
+[compat]
+julia = "1.6"
