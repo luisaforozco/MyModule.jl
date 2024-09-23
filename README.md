@@ -9,6 +9,8 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
+This repo contains a set of scripts used to explore the behaviour of different mechanisms to import modules to Julia: `include`, `import` and `using`.
+
 ## How to Cite
 
 If you use MyModule.jl in your work, please cite using the reference given in [CITATION.cff](https://github.com/luisaforozco/MyModule.jl/blob/main/CITATION.cff).

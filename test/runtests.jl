@@ -1,7 +1,8 @@
-using MyModule
 using Test
 
+#@testset "MyModule.jl" begin
+#    using MyModule
+#    MyModule.foo()
+#end
 
-@testset "MyModule.jl" begin
-    @test MyModule.hello_world() == "Hello, World!"
-end
+include("using_test.jl")
